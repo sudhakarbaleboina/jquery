@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: jquery
-        image: 865563157914.dkr.ecr.ap-south-1.amazonaws.com/jequery:number
+        image: 865563157914.dkr.ecr.ap-south-1.amazonaws.com/jequery:9
         ports:
         - containerPort: 80
 ---
